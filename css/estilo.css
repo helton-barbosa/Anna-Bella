@@ -1,0 +1,14 @@
+body{ background-image: url(../img/fundo.png); font-family: Arial, Helvetica, sans-serif; }
+#tudo{ width: 900px; margin: 0 auto; }
+nav{ background-color: #C5C5B3; margin: 0; padding: 0; }
+nav ul{ margin: 0; padding: 0; }
+nav ul li{ list-style: none; display: inline; line-height: 50px; margin: 0; padding: 0; }
+nav ul li a{ text-decoration: none; text-transform: uppercase; padding: 10px; color: #4B5669; font-weight: bold;}
+.espaco{ margin: 0 0 0 20px; }
+main{ background-color: #E8E8DA; }
+main section{ padding: 10px; }
+main section h2{ color: #828272; }
+.mar{ margin: 0; padding: 0; }
+main section p span{ font-weight: bold; }
+footer h4{ text-align: center; }
+.borda{ border: 10px solid #C5C5B3; }
