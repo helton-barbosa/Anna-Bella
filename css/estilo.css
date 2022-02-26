@@ -9,6 +9,7 @@ main{ background-color: #E8E8DA; }
 main section{ padding: 10px; }
 main section h2{ color: #828272; }
 .mar{ margin: 0; padding: 0; }
+main section p{ text-align: justify; }
 main section p span{ font-weight: bold; }
 footer h4{ text-align: center; }
 .borda{ border: 10px solid #C5C5B3; }
